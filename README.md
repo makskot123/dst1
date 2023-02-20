@@ -2,4 +2,4 @@
 - HTML 5
 * CSS 3
 
-Can you viev my portfolio [GitHub Pages](https://pages.github.com/)
+Can you viev  [my project](https://makskot123.github.io/dst1//)
